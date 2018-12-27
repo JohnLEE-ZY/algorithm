@@ -1,6 +1,6 @@
 # _*_ code = utf-8 _*_
 #   项目名称： project  
-#   文件名：sum_dg 
+#   文件名：sum_recursion
 #   开发人员：LZY 
 #   日期：2018-12-27  9:56  
 #   开发工具：PyCharm

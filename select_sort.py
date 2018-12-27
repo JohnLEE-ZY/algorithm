@@ -4,6 +4,7 @@
 #   开发人员：LZY 
 #   日期：2018-12-27  8:50  
 #   开发工具：PyCharm
+
 def find_min(list):
     minitem=list[0]
     minindex=0
